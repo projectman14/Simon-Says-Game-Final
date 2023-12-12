@@ -70,3 +70,5 @@ function reset() {
    userSeq = [];
    level = 0;
 }
+
+//Hi this is completed
